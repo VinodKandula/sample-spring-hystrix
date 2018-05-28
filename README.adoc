@@ -1,3 +1,5 @@
+@ http://www.java-allandsundry.com/2017/04/hystrix-command-java-8-helpers.html
+
 Up and running with Sample Spring-Cloud based Hystrix demo app
 --------------------------------------------------------------
 
